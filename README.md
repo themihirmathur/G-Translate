@@ -1,5 +1,9 @@
 # G-Translate (💱 👉🏻 🔡) | AI SaaS Language Translation Tool
 
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+
 ![Screenshot 2024-07-07 at 12 30 07 PM](https://github.com/themihirmathur/G-Translate/assets/92594107/90b0f00a-b450-421f-becd-08d85ea281eb)
 
 ## Table of Contents
@@ -20,12 +24,20 @@
 ## Introduction
 G-Translate is a cutting-edge AI SaaS language translation tool developed using Next.js and TypeScript. It enables users to translate spoken words into different languages, making it an invaluable resource for those learning new languages or needing real-time translation. By leveraging the latest in speech recognition and AI translation technology, G-Translate offers an intuitive and powerful solution for language barriers.
 
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+
 ## Tech Stack
 - **Next.js**
 - **TypeScript**
 - **OpenAI API**
 - **React Speech Recognition**
 - **Tailwind CSS**
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ## Features
 - **Speech Recognition:** Converts spoken words into text using the Web Speech API.
@@ -37,6 +49,10 @@ G-Translate is a cutting-edge AI SaaS language translation tool developed using 
 - **Copy to Clipboard:** Copies translated text to the clipboard.
 - **User Interaction:** Provides features for users to like, dislike, and favorite translations.
 - **Responsive Design:** Ensures a seamless experience across different devices.
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ## Getting Started
 Follow these steps to set up the project locally on your machine.
@@ -74,6 +90,10 @@ npm run dev
 ```
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+
 ## Usage
 1. **Speech Recognition:** Click the microphone icon to start speaking and convert speech to text.
 2. **Translation:** Select the target language and click the translate button to translate the text.
@@ -81,6 +101,10 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 4. **File Upload:** Upload a file to read and translate its text content.
 5. **Link Content Fetching:** Enter a URL to fetch and translate text content from the webpage.
 6. **User Interaction:** Like, dislike, or favorite translations for future reference.
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ## Contributing
 We welcome contributions to enhance the functionality of G-Translate. Please follow these steps:
@@ -90,9 +114,17 @@ We welcome contributions to enhance the functionality of G-Translate. Please fol
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
 
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+
 ## Contact
 For any inquiries or feedback, please contact Mihir Mathur at [themihirmathur@gmail.com](mailto:themihirmathur@gmail.com).
 
 ---
 
 This README provides a comprehensive overview of the G-Translate project, guiding you through setup, usage, and contribution. Feel free to reach out if you have any questions or need further assistance.
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
